@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Brick
   - Gold
+  - Lava
+  - Goal
+  - Dead
   layers:
   - Default
   - TransparentFX
